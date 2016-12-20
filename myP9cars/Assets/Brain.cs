@@ -4,5 +4,8 @@ using UnityEngine;
 
 public class Brain : MonoBehaviour 
 {
-
+	public virtual void Tick()
+	{
+		
+	}
 }
